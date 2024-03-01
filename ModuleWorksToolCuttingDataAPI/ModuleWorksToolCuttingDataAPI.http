@@ -1,0 +1,6 @@
+@ModuleWorksToolCuttingDataAPI_HostAddress = http://localhost:5151
+
+GET {{ModuleWorksToolCuttingDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
